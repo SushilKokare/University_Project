@@ -1,2 +1,2 @@
-# AtiNeu_Project
-AtiNeu Internship Project. Neuro-imaging using CNN in brain stroke .
+# University_Project
+University Project. Neuro-imaging using CNN in brain stroke .
